@@ -12,9 +12,5 @@ This is also.
 
 Also this.
 
-This sentence is created to make the first save.
 
-This sentence is created to make 
-
-the second save.
 
